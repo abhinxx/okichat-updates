@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>OkiChat</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 22 Oct 2025 14:56:28 +0200</pubDate>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://abhinxx.github.io/okichat-updates/OkiChat%201.0.1.dmg" length="5185319" type="application/octet-stream" sparkle:edSignature="bRnmyqRhQQYVuXWE7LBJzEXe5eP8+jACIH84wmwaLA6UeU7GhC1XkzuO+yU84HKB9BpYYOZo9ClJP9J7UyXcDA=="/>
+        </item>
+    </channel>
+</rss>
