@@ -5,7 +5,7 @@
         <item>
             <title>1.0.2</title>
             <pubDate>Wed, 22 Oct 2025 15:20:26 +0200</pubDate>
-            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:version>1.0.2</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/abhinxx/okichat-updates/releases/download/v1.0.2/OkiChat.1.0.2.dmg" length="5185973" type="application/octet-stream" sparkle:edSignature="OIvxl9IY9w+nAOVSFncSyrbCCN2MUsVoQ2YQkEErgNoA96dCtaUx/6LiEApL/VsGJ+qXA9486zzt56adHfAcAg=="/>
