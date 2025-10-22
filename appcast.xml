@@ -3,12 +3,12 @@
     <channel>
         <title>OkiChat</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Wed, 22 Oct 2025 16:51:00 +0200</pubDate>
-            <sparkle:version>1.0.3</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Wed, 22 Oct 2025 17:10:06 +0200</pubDate>
+            <sparkle:version>1.0.4</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/abhinxx/okichat-updates/releases/download/v1.0.3/OkiChat.1.0.3.dmg" length="5186935" type="application/octet-stream" sparkle:edSignature="JwvacRkarVfWoigv7FTrdcZLk4Grnl7csKVW+pR6t5JCt4pNZAU3pJkqZ/LCPml0C7LXbzkfXagnyPT53e0qBg=="/>
+            <enclosure url="https://github.com/abhinxx/okichat-updates/releases/download/v1.0.4/OkiChat.1.0.4.dmg" length="5188579" type="application/octet-stream" sparkle:edSignature="I2/O8QAWZZBiOlnZJqkz2fITLEv0J/vitnEC7Y95S6Xq03R8dkySGjClfp6131PCM/kUlwqExW/3kYYLNtRGCA=="/>
         </item>
     </channel>
 </rss>
