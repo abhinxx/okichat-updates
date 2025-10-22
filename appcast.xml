@@ -8,7 +8,7 @@
             <sparkle:version>1.0.1</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://abhinxx.github.io/okichat-updates/OkiChat%201.0.1.dmg" length="5185319" type="application/octet-stream" sparkle:edSignature="bRnmyqRhQQYVuXWE7LBJzEXe5eP8+jACIH84wmwaLA6UeU7GhC1XkzuO+yU84HKB9BpYYOZo9ClJP9J7UyXcDA=="/>
+            <enclosure url="https://github.com/abhinxx/okichat-updates/releases/download/v1.0.1/OkiChat.1.0.1.dmg" length="5185319" type="application/octet-stream" sparkle:edSignature="bRnmyqRhQQYVuXWE7LBJzEXe5eP8+jACIH84wmwaLA6UeU7GhC1XkzuO+yU84HKB9BpYYOZo9ClJP9J7UyXcDA=="/>
         </item>
     </channel>
 </rss>
